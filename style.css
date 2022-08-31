@@ -1,0 +1,120 @@
+.navbar-brand strong {
+    vertical-align: sub;
+}
+
+.navbar-nav .nav-link {
+    color: #000;
+    font-weight: 500;
+}
+
+.headerName {
+    font-size: 72px;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(8, 8, 8, 1);
+}
+
+.trend-icon {
+    font-size: large;
+    border: 1px solid #000;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    border-radius: 50%;
+}
+
+.card a:link,
+.card a:visited,
+.card a:hover,
+.card a:active {
+    color: #000000;
+    text-decoration: none;
+}
+
+article .card {
+    border: none;
+}
+
+article .card-header {
+    border-bottom: none;
+    background-color: #fff;
+    padding: 0px;
+    padding-top: 8px;
+}
+
+article .card-footer {
+    border-top: none;
+    background-color: #fff;
+    padding: 0px;
+}
+
+article .card-body {
+    padding: 0px;
+}
+
+.checked {
+    color: #ffc107;
+}
+
+.article2 {
+    border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
+
+.firstAsideList .list-group {
+    --bs-list-group-border-width: 0px;
+}
+
+.firstAsideList .list-group-item {
+    padding: 0px;
+}
+
+.firstAsideList li {
+    margin: 2px;
+}
+
+.firstAside {
+    border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
+
+.secondAside a {
+    color: #6c757d;
+    text-decoration: none;
+    --bs-link-hover-color: #6c757d;
+}
+
+section .card {
+    border: none;
+}
+
+section .card-header {
+    border-bottom: none;
+    background-color: #fff;
+}
+
+section .card-footer {
+    border-top: none;
+    background-color: #fff;
+}
+
+section .card-footer-btn {
+    font-size: x-small;
+    background-color: #f2f2f2 !important;
+    color: #757575 !important;
+}
+
+.sectionAndAside .card-body {
+    padding-top: 0px;
+    padding-bottom: 5px;
+}
+
+.sectionAndAside .card .col-4 img {
+    max-height: 180px;
+}
+
+@media (max-width: 575.98px) {
+    .sectionAndAside .col-4 img {
+        width: 150px !important;
+        height: 120px !important;
+        
+    } 
+ }
