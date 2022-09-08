@@ -1,2 +1,2 @@
 # task3-medium-clone
-Patika task (Html,Css,Bootstrap)
+Medium Clone with Html,Css,Bootstrap - Patika task
